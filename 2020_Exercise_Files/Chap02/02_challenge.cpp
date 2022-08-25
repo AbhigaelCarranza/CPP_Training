@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <iostream>
 
-using namespace std; 
+using namespace std; //Esto es una prueba
 
 const char string_[] = "This is a null-terminated string.";
 // const char string[] = "Hello";
