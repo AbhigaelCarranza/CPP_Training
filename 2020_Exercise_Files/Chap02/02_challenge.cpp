@@ -8,6 +8,9 @@ using namespace std; //Esto es una prueba
 const char string_[] = "This is a null-terminated string.";
 // const char string[] = "Hello";
 
+
+
+
 int main() {
     int count = 0;
     for (auto c : string_) {
